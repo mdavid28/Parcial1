@@ -236,7 +236,6 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "main";
             this.Text = "Proyecto Compiladores";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.layout_panel_general.ResumeLayout(false);
             this.panel_output.ResumeLayout(false);
             this.panel_output.PerformLayout();
