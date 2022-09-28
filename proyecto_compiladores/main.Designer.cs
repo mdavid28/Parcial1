@@ -39,10 +39,13 @@
             this.txt_input = new System.Windows.Forms.TextBox();
             this.btn_limpiar_input = new System.Windows.Forms.Button();
             this.panel_control = new System.Windows.Forms.Panel();
+            this.btn_tokens = new System.Windows.Forms.Button();
+            this.btn_mantenimiento = new System.Windows.Forms.Button();
             this.btn_lineas_columnas = new System.Windows.Forms.Button();
             this.btn_mostrar_caracteres = new System.Windows.Forms.Button();
             this.btn_flujo_caracteres = new System.Windows.Forms.Button();
             this.btn_seleccionar_archivo = new System.Windows.Forms.Button();
+            this.btn_simbolos = new System.Windows.Forms.Button();
             this.layout_panel_general.SuspendLayout();
             this.panel_output.SuspendLayout();
             this.panel_input.SuspendLayout();
@@ -168,6 +171,9 @@
             // 
             // panel_control
             // 
+            this.panel_control.Controls.Add(this.btn_simbolos);
+            this.panel_control.Controls.Add(this.btn_tokens);
+            this.panel_control.Controls.Add(this.btn_mantenimiento);
             this.panel_control.Controls.Add(this.btn_lineas_columnas);
             this.panel_control.Controls.Add(this.btn_mostrar_caracteres);
             this.panel_control.Controls.Add(this.btn_flujo_caracteres);
@@ -177,6 +183,30 @@
             this.panel_control.Name = "panel_control";
             this.panel_control.Size = new System.Drawing.Size(110, 519);
             this.panel_control.TabIndex = 2;
+            // 
+            // btn_tokens
+            // 
+            this.btn_tokens.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_tokens.Location = new System.Drawing.Point(3, 280);
+            this.btn_tokens.Name = "btn_tokens";
+            this.btn_tokens.Size = new System.Drawing.Size(107, 50);
+            this.btn_tokens.TabIndex = 5;
+            this.btn_tokens.Text = "Tokens";
+            this.btn_tokens.UseVisualStyleBackColor = true;
+            this.btn_tokens.Click += new System.EventHandler(this.btn_tokens_Click);
+            // 
+            // btn_mantenimiento
+            // 
+            this.btn_mantenimiento.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_mantenimiento.Location = new System.Drawing.Point(3, 224);
+            this.btn_mantenimiento.Name = "btn_mantenimiento";
+            this.btn_mantenimiento.Size = new System.Drawing.Size(107, 50);
+            this.btn_mantenimiento.TabIndex = 4;
+            this.btn_mantenimiento.Text = "Mantenimiento";
+            this.btn_mantenimiento.UseVisualStyleBackColor = true;
+            this.btn_mantenimiento.Click += new System.EventHandler(this.btn_mantenimiento_Click);
             // 
             // btn_lineas_columnas
             // 
@@ -226,6 +256,18 @@
             this.btn_seleccionar_archivo.UseVisualStyleBackColor = true;
             this.btn_seleccionar_archivo.Click += new System.EventHandler(this.btn_seleccionar_archivo_Click);
             // 
+            // btn_simbolos
+            // 
+            this.btn_simbolos.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_simbolos.Location = new System.Drawing.Point(3, 336);
+            this.btn_simbolos.Name = "btn_simbolos";
+            this.btn_simbolos.Size = new System.Drawing.Size(107, 50);
+            this.btn_simbolos.TabIndex = 6;
+            this.btn_simbolos.Text = "Tabla de Simbolos";
+            this.btn_simbolos.UseVisualStyleBackColor = true;
+            this.btn_simbolos.Click += new System.EventHandler(this.btn_simbolos_Click);
+            // 
             // main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -262,6 +304,9 @@
         private System.Windows.Forms.Button btn_lineas_columnas;
         private System.Windows.Forms.Button btn_mostrar_caracteres;
         private System.Windows.Forms.Button btn_flujo_caracteres;
+        private System.Windows.Forms.Button btn_mantenimiento;
+        private System.Windows.Forms.Button btn_tokens;
+        private System.Windows.Forms.Button btn_simbolos;
     }
 }
 

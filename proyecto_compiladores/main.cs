@@ -18,6 +18,7 @@ namespace proyecto_compiladores
         }
 
         funciones funciones = new funciones();
+        db_conexion cn = new db_conexion();
 
         private void limpiar_input_Click(object sender, EventArgs e)
         {
@@ -47,6 +48,26 @@ namespace proyecto_compiladores
         private void btn_lineas_columnas_Click(object sender, EventArgs e)
         {
             txt_output.Text += funciones.crear_cadena_por_operacion(txt_input.Text, "lineas_columnas");
+        }
+
+        private void btn_mantenimiento_Click(object sender, EventArgs e)
+        {
+            frm_mantenimiento mantenimiento = new frm_mantenimiento();
+            mantenimiento.Show();
+        }
+
+        private void btn_tokens_Click(object sender, EventArgs e)
+        {
+            mantenimiento _mantenimiento = new mantenimiento();
+            _mantenimiento.vaciar_tokens();
+            funciones.generar_token_depurado(txt_input.Text);
+            frm_tokens tokens = new frm_tokens();
+            tokens.Show();
+        }
+
+        private void btn_simbolos_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
