@@ -219,6 +219,7 @@ namespace proyecto_compiladores
                         if (longitud_cadena == i && lexema != null)
                         {
 
+
                             insertar_token();
                         }
                         break;
