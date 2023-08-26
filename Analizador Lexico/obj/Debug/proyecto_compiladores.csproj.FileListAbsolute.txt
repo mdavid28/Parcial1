@@ -1,0 +1,53 @@
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\proyecto_compiladores.exe.config
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\proyecto_compiladores.exe
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\proyecto_compiladores.pdb
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\MySql.Data.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\Google.Protobuf.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\ZstdNet.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\System.Buffers.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\MySql.Data.xml
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.AssemblyReference.cache
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.SuggestedBindingRedirects.cache
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.exe.config
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.frm_mantenimiento.resources
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.frm_tokens.resources
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.main.resources
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.Properties.Resources.resources
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.GenerateResource.cache
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.CoreCompileInputs.cache
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.CopyComplete
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.exe
+C:\Users\kesec\Source\Repos\chevskouski\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.pdb
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\proyecto_compiladores.exe.config
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\proyecto_compiladores.exe
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\proyecto_compiladores.pdb
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\Google.Protobuf.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\ZstdNet.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\System.Memory.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\System.Buffers.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\MySql.Data.xml
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.AssemblyReference.cache
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.exe.config
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.frm_mantenimiento.resources
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.frm_tokens.resources
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.main.resources
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.Properties.Resources.resources
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.GenerateResource.cache
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.CoreCompileInputs.cache
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.csproj.CopyComplete
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.exe
+C:\Users\mac_d\Documents\8vo Semestre USPG\Compiladores\proyecto_compiladores\proyecto_compiladores\proyecto_compiladores\obj\Debug\proyecto_compiladores.pdb
